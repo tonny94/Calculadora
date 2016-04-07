@@ -8,6 +8,8 @@ import javax.swing.*;
  *
  * @author pablo
  */
+ 
+ //MODIFICANDO EN LA MISMA CARPETA DISTINTO ARCHIVO
 public class Interfaz extends JFrame {
 
    
