@@ -18,6 +18,8 @@ public class Main {
      */
     public static void main(String[] args) {
         Datos controller = new Datos();
+        System.out.println("QUE MARAVILLA DE PROGRAMA/N");
+        
     }
     
 }
