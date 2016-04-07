@@ -31,6 +31,8 @@ public class MensajeErr {
         Ventana.setLocationRelativeTo(null);
         Ventana.setVisible(false);
         
+        //Mensaje
+        
        
         
     }
